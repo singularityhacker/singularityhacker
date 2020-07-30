@@ -10,6 +10,7 @@ My name is Justice. I'm a technologist by passion and agilest by specialty.
 *   Medium: https://medium.com/@justiceconder
 *   Gmail: justiceconder@gmail.com
 *   [Visual Inspiration](https://www.pinterest.com/decimal/singularity-hacker/)
+*   [Music Vibes](https://www.brain.fm/)
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=singularityhacker&count_private=true&show_icons=true&theme=dark)
