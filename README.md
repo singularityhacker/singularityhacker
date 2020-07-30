@@ -1,21 +1,16 @@
-### Hi there 👋
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fsingularityhacker)
+### Hi there 👋 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fsingularityhacker)
 
-[Visual Inspiration](https://www.pinterest.com/decimal/singularity-hacker/)
+My name is Justice. I'm a technologist by passion and agilest by specialty.
 
-
+*   Personal site: http://justiceconder.com/
+*   Technologist blog: https://singularityhacker.com/
+*   Agilest blog: https://agileautomata.com/
+*   Twitter: https://twitter.com/singularityhack
+*   Linkedin: https://www.linkedin.com/in/justiceconder/
+*   Medium: https://medium.com/@justiceconder
+*   Gmail: justiceconder@gmail.com
+*   [Visual Inspiration](https://www.pinterest.com/decimal/singularity-hacker/)
 
 <!--
-**singularityhacker/singularityhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Github Stats](https://github-readme-stats.vercel.app/api?username=singularityhacker&count_private=true&show_icons=true&theme=dark)
 -->
