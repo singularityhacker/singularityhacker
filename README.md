@@ -14,16 +14,6 @@ My work sits at the intersection of **code, incentives, and governance**. I’ve
 
 ---
 
-## Current Focus
-
-- **Token launch & bonding curve infrastructure**
-- **DAO governance and grant allocation systems**
-- **Agent-based automation (on-chain ↔ off-chain)**
-- **Rapid prototyping in Python and Vyper**
-- **Mechanism design for programmable organizations**
-
----
-
 ## Writing & Research
 
 - **Website:** https://www.justiceconder.com  
@@ -33,22 +23,6 @@ My work sits at the intersection of **code, incentives, and governance**. I’ve
   - *Cypherpunk Revolution*  
   - *Data-Driven Agility*  
   - *Cybernetic Org Design* (forthcoming)
-
----
-
-## Tech Stack
-
-**Languages**  
-Python, Vyper, JavaScript
-
-**Web3**  
-Ethereum, smart contracts, token engineering, bonding curves, quadratic funding, DAO tooling
-
-**Systems**  
-Agent automation, APIs, data pipelines, incentive design, and governance frameworks
-
-**Infra**  
-Git, cloud-native architectures, CI/CD
 
 ---
 
