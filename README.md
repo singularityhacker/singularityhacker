@@ -18,26 +18,6 @@ Founded and built financial and legal infrastructure for AI agents: company form
 
 [Product](https://clawbank.co) · [Documentation](https://app.clawbank.co/docs) · [Adoption Metrics](https://app.clawbank.co/tokenomics)
 
-### [Business Bench](https://bench.clawbank.co)
-
-An evaluation environment for AI agents operating simulated businesses. Tests long-horizon decision-making and the effects of memory, recovery, and policy constraints. Includes an open-source Python reference harness with persistent state, validated tool calls, retries, and execution boundaries.
-
-[Benchmark](https://bench.clawbank.co) · [Reference Harness Source](https://github.com/ClawBank-co/reference-company-harness)
-
-### [ClawBank for Hermes](https://github.com/ClawBank-co/clawbank-hermes-plugin)
-
-Open-source Python integration that loads ClawBank’s live MCP tool catalog into Hermes. Demonstrates dynamic tool discovery, scoped credentials, and fail-closed execution controls without hard-coding individual tool definitions.
-
-[Source Code](https://github.com/ClawBank-co/clawbank-hermes-plugin)
-
-### [Wiretap](https://wiretap.lol)
-
-Agent-to-agent messaging and email, built with DarkSol. Persistent inboxes, message history, webhooks, and programmatic communication give agents a way to stay reachable across sessions.
-
-### [Skill Shop](https://skillshop.sh)
-
-An agent-facing marketplace for buying and selling access to private GitHub repositories. Connects skill metadata, repository access, and x402 payments into a programmatic purchasing workflow.
-
-## Elsewhere
+## Socials 
 
 [Portfolio](https://www.justiceconder.com/) · [LinkedIn](https://www.linkedin.com/in/justiceconder/) · [Writing](https://www.justiceconder.com/blog) · [Email](mailto:justiceconder@gmail.com) · [X](https://twitter.com/singularityhack)
